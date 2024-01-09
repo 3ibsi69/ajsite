@@ -33,3 +33,11 @@
 a:visited {
     color: rgb(196, 2, 2);
 }
+
+#charade {
+    /* Le mot « Charade » est en gras, de couleur bleue et police « Cursive » */
+    font-weight: bold;
+    color: blue;
+    font-family: cursive;
+
+}
