@@ -27,7 +27,7 @@ const Index = () => {
             <TagFacesIcon />
             Renforcer la complicité enseignant/Apprenant
           </p>
-          <p className="text">1.Importance des jeux</p>
+          <p className="text">2.les jeux d'apprentissage</p>
           <ul>
             <li>
               <p>Les jeux ludiques</p>

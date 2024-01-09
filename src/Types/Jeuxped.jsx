@@ -28,10 +28,10 @@ const JeuxpedComponent = () => {
       {/* make list a b c  */}
       <ol type='a'>
         <li>
-          <p>Ressource: une liste de personnes ,d'action </p>
+          <p><span className='green'>Ressource:</span> une liste de personnes ,d'action </p>
         </li>
         <li>
-          <p>Jeu : divisiz votre classe en deux equipes puis pensez a un mot lie a la lecon </p>
+          <p><span className='green'>Jeu :</span> divisiz votre classe en deux equipes puis pensez a un mot lie a la lecon </p>
         </li>
         <li>
           <p>Les differnte type de charrade</p>
